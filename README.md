@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning about programming.
+
 🌱 I’m studying in [TEC | Tecnológico de Costa Rica](https://www.tec.ac.cr/).
 
 
