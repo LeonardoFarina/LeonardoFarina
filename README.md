@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Leonardo Fariña</h1>
-<h3 align="center">A passionate programer from Argentina</h3>
+<h3 align="center">A passionate programmer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardofarina&label=Profile%20views&color=0e75b6&style=flat" alt="leonardofarina" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardofarina" alt="leonardofarina" /></a> </p>
 
-- 🌱 I’m currently learning **about programming.**
+- 🌱 I'm a Software Engineer from Costa Rica.
 
-- 🌱 I work for [Bearsoft](https://thebearsoft.com/)
+- ✍ Software Engineering graduate from [El Tecnológico de Costa Rica](https://www.tec.ac.cr/)
+
+- ☕ Working as a Data Engineer at [Bearsoft](https://thebearsoft.com/)
 
 - 📫 How to reach me **Ldfozamis@gmail.com**
-
-- ⚡ Fun fact **I play LoL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
