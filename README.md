@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about programming.**
 
-- 🌱 I’m working at [BearSoft](https://thebearsoft.com/)
+- 🌱 I work for [BearSoft](https://thebearsoft.com/)
 
 - 📫 How to reach me **Ldfozamis@gmail.com**
 
