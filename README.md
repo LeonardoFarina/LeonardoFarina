@@ -9,7 +9,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning cloud at Platzi 
 - 🤔 I’m looking for help with bug bounty and open source. 
-- 💬 Ask me about ✍ Software Engineering graduate from El Tecnológico de Costa Rica 
+- ✍ Software Engineering graduate from El Tecnológico de Costa Rica. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeonardoFarina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ldfozamis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/leo.far00/)  
