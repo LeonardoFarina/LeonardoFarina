@@ -14,17 +14,17 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h4 align="center">
       Below, you can find more details about my technical skills. ( Click Me :grin: )
-    </h3>
+    </h4>
   </summary>
   <div align="center"> 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       Languages
-    </h3>
+    </h5>
   </summary>
   <div align="center"> 
    
@@ -39,9 +39,9 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 </details>    
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       ☁️ Hosting/SaaS
-    </h3>
+    </h5>
   </summary>
   <div align="center">  
 
@@ -55,9 +55,9 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       📚 Frameworks, Platforms and Libraries
-    </h3>
+    </h5>
   </summary>
   <div align="center">  
    
@@ -75,9 +75,9 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       💾 Databases
-    </h3>
+    </h5>
   </summary>
   <div align="center">  
    
@@ -92,9 +92,9 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       🎛️ Operating System
-    </h3>
+    </h5>
   </summary>
   <div align="center">  
    
@@ -106,9 +106,9 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       🕓 Version Control
-    </h3>
+    </h5>
   </summary>
   <div align="center">  
    
@@ -120,9 +120,9 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       🖥️ ML/DL
-    </h3>
+    </h5>
   </summary>
   <div align="center">  
    
@@ -135,9 +135,9 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       💻 IDEs/Editors
-    </h3>
+    </h5>
   </summary>
   <div align="center">  
    
@@ -151,9 +151,9 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       Testing
-    </h3>
+    </h5>
   </summary>
   <div align="center">  
    
@@ -166,9 +166,9 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       🎨 Design
-    </h3>
+    </h5>
   </summary>
   <div align="center">  
    
@@ -180,9 +180,9 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       🎮 Gaming
-    </h3>
+    </h5>
   </summary>
   <div align="center">  
    
@@ -194,9 +194,9 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 
 <details align="center" >
   <summary>
-    <h3 align="center">
+    <h5 align="center">
       🥅 Other
-    </h3>
+    </h5>
   </summary>
   <div align="center">  
    
