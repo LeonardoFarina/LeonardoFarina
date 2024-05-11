@@ -102,51 +102,26 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
   </div>
 
-<table>
-    <tr>
-        <th align="center">
-            <img width="441" height="1px">
-            <p> 
-            <small>
-            🎨 Design
-            </small>
-            </p>
-        </th>
-        <th align="center">
-            <img width="441" height="1">
-            <p> 
-            <small>
-            🎮 Gaming
-            </small>
-            </p>
-        </th>      
-        <th align="center">
-            <img width="441" height="1">
-            <p> 
-            <small>
-            🥅 Other
-            </small>
-            </p>
-        </th>
-    </tr>
-  <tr>
-        <td align="center">
-          
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-                ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-                ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-        </td>
-        <td align="center">
-        
- ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-                ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-                ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)    
-        </td>
-        <td align="center">
-        
-   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+###    <p align="center">🎨 Design</p>
+  <div align="center">  
+
+   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+    ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+  </div>
+
+###    <p align="center">🎮 Gaming</p>
+  <div align="center">  
+
+   ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+    ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+    ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+  </div>
+
+#####    <p align="center">🥅 Other</p>
+  <div align="center">  
+    
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
     ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
     ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-        </td>
-    </tr>
-</table>
+  </div>
