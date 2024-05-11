@@ -118,7 +118,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
   </div>
 
-#####    <p align="center">🥅 Other</p>
+###    <p align="center">🥅 Other</p>
   <div align="center">  
     
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
