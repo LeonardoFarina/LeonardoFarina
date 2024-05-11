@@ -10,7 +10,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 - 🤔 I’m looking for help with bug bounty and open source.
 - ✍ Software Engineering graduate from El Tecnológico de Costa Rica.
 
-#####    <p align="center">Languages</p>
+###    <p align="center">Languages</p>
 
   <div align="center"> 
    
@@ -23,7 +23,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   </div>
 
-#####    <p align="center">☁️ Hosting/SaaS</p>
+###    <p align="center">☁️ Hosting/SaaS</p>
   <div align="center">  
 
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -33,7 +33,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   </div>
 
-#####    <p align="center">📚 Frameworks, Platforms and Libraries</p>
+###    <p align="center">📚 Frameworks, Platforms and Libraries</p>
   <div align="center">  
    
    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -47,7 +47,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   </div>
 
-#####    <p align="center">💾 Databases</p>
+###    <p align="center">💾 Databases</p>
   <div align="center">  
    
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -58,7 +58,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white)
   </div>
 
-#####    <p align="center">🎛️ Operating System</p>
+###    <p align="center">🎛️ Operating System</p>
   <div align="center">  
    
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -66,7 +66,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   </div>
 
-#####    <p align="center">🕓 Version Control</p>
+###    <p align="center">🕓 Version Control</p>
   <div align="center">  
    
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -74,7 +74,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   </div>
 
-#####    <p align="center">🖥️ ML/DL</p>
+###    <p align="center">🖥️ ML/DL</p>
   <div align="center">  
    
    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -83,7 +83,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   </div>
 
-#####    <p align="center">💻 IDEs/Editors</p>
+###    <p align="center">💻 IDEs/Editors</p>
   <div align="center">  
    
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -93,7 +93,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   </div>
 
-#####    <p align="center">Testing</p>
+###    <p align="center">Testing</p>
   <div align="center">  
    
    ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -102,7 +102,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
   </div>
 
-#####    <p align="center">🎨 Design</p>
+###    <p align="center">🎨 Design</p>
   <div align="center">  
    
    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -110,7 +110,7 @@ I had versatile experience in development, both on the Backend and Frontend, as 
     ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
   </div>
 
-#####    <p align="center">🎮 Gaming</p>
+###    <p align="center">🎮 Gaming</p>
   <div align="center">  
    
    ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
