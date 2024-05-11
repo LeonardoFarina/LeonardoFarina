@@ -10,7 +10,15 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 - 🤔 I’m looking for help with bug bounty and open source.
 - ✍ Software Engineering graduate from El Tecnológico de Costa Rica.
 
-Below, you can find more details about my technical skills.
+
+
+<details align="center" >
+  <summary>
+    <h3 align="center">
+      Below, you can find more details about my technical skills. ( Click Me :grin: )
+    </h3>
+  </summary>
+  <div align="center"> 
 
 <details align="center" >
   <summary>
@@ -197,3 +205,6 @@ Below, you can find more details about my technical skills.
     ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
   </div>
 </details>
+
+  </div>
+</details>    
