@@ -1,7 +1,3 @@
-<p align="center">
-    <img width="100%" height="50%" src="https://i.ibb.co/SmWD8Wk/banner-readme.jpg" alt="my banner">
-</p>
-
 ## <p align="center">Hi there 👋, my name is Leonardo</p>
 
 #### <p align="center">I am a Software Engineer. 👋</p>
