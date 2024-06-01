@@ -1,14 +1,19 @@
-## <p align="center">Hi there 👋, my name is Leonardo</p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=700&size=35&duration=2500&pause=100&color=3A954A&center=true&vCenter=true&random=false&width=700&lines=Hi+there+%F0%9F%91%8B+%2Cmy+name+is+Leonardo;%F0%9F%96%A5%EF%B8%8F+I'm+a+Software+Engineer+%F0%9F%96%A5%EF%B8%8F;%F0%9F%93%AD+Contact+%F0%9F%91%87%F0%9F%91%87+me+%F0%9F%93%AD)](https://git.io/typing-svg)
+  
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ldfozamis/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ldfozamis@gmail.com) 
+</div>
 
-#### <p align="center">I am a Software Engineer. 👋</p>
+<div align="center">
+ <p>I've got versatile experience in development, both on the Backend and Frontend, and in Cloud-based solutions too. ☁️💻 My passion is finding different ways to optimize and improve process efficiency through innovative tech solutions. 🚀✨ I love making things faster and better! 🔧⚡</p>
+</div>
 
-##### <p align="center"> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ldfozamis/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ldfozamis@gmail.com) </p>
-
-I had versatile experience in development, both on the Backend and Frontend, as well as in Cloud-based solutions. My passion is finding different ways to optimize and improve process efficiency through innovative technological solutions.
-
-- 🌱 I’m currently learning cloud at Platzi.
-- 🤔 I’m looking for help with bug bounty and open source.
-- ✍ Software Engineering graduate from El Tecnológico de Costa Rica.
+<div align="center">
+  <p>🌱 I’m currently improving my cloud skills at Platzi. ✍️</p>
+  <p>🐛 I’m looking for help with bug bounty and open source. 🌐</p>
+  <p>🎓 Software Engineering graduate from El Tecnológico de Costa Rica. 📚</p>
+</div>
 
 |**Languages**|**☁️ Hosting/SaaS**|**📚 Frameworks, Platforms and Libraries**|
 |:---:|:---:|:---:|
@@ -19,3 +24,6 @@ I had versatile experience in development, both on the Backend and Frontend, as 
 |    <img width="441" height="1">   <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="48" alt="Matplotlib"/>      <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="Numpy"/>      <img src="https://img.icons8.com/?size=48&id=O6SWwpPIM0GB&format=png&color=000000" alt="PyTorch"/>      <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>  |   <img width="441" height="1">    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>      <img src="https://img.icons8.com/?size=48&id=y7WGoWNuIWac&format=png&color=000000" alt="Visual Studio"/>      <img src="https://img.icons8.com/?size=48&id=4djt356tq8UO&format=png&color=000000" alt="NetBeans"/>      <img src="https://img.icons8.com/?size=48&id=lOqoeP2Zy02f&format=png&color=000000" alt="GoogleColab"/>      <img src="https://img.icons8.com/?size=48&id=2GRTwFZR2Tqj&format=png&color=000000" alt="Eclipse"/> |   <img width="441" height="1">    <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium"/>      <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="48" alt="Postman"/>      <img src="https://seeklogo.com/images/S/sonarqube-logo-AF25541AAF-seeklogo.com.png" width="48" alt="SonarQube"/>      <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="48" alt="Swagger"/> |
 |**🎨 Design**|**🎮 Gaming**|**🥅 Other**|
 |    <img width="441" height="1">   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma"/>      <img src="https://img.icons8.com/color/48/000000/gimp.png" alt="Gimp"/>      <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender"/> |  <img width="441" height="1">     <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" width="48" alt="Itch.io"/>      <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity"/>      <img src="https://godotengine.org/assets/press/icon_color.svg" width="48" alt="Godot"/> |    <img width="441" height="1">   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/>      <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/>      <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="ElasticSearch"/> |
+
+
+
